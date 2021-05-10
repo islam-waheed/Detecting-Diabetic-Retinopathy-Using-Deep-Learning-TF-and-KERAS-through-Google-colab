@@ -5,6 +5,7 @@ Dataset downloaded from Kaggle here is the link : https://www.kaggle.com/tanlike
 
 
 Some results using CNN in TensorFlow model :
+-
 ![image](https://user-images.githubusercontent.com/83949402/117637980-ac544200-b182-11eb-826b-821395ee6e38.png)
 
 *With different architecture* like  no. of layers 
@@ -13,6 +14,7 @@ Some results using CNN in TensorFlow model :
 
 
 Some results of KERAS model :
+-
 ![image](https://user-images.githubusercontent.com/83949402/117638346-05bc7100-b183-11eb-9141-604a81bbf5ca.png)
 
 ![image](https://user-images.githubusercontent.com/83949402/117638315-fd643600-b182-11eb-9a36-649ace904266.png)
